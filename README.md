@@ -2,6 +2,7 @@
 <h1 align="center">Hola! 👋, Soy Jose Luis Fernández</h1>
 
 <h3 align="left">Soy desarrollador web full stack y Agrónomo de profesión, me caracterizo por la busqueda de crecimiento profesional y personal, aspiro conseguir resultados perseguidos mediante el trabajo en equipo o trabajo colaborativo, la calidad en los procesos y la mejora continua, al tiempo que creo un clima laboral saludable, tranquilo e inspirador.</h3>
+<br/>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
