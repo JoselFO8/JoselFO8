@@ -92,48 +92,76 @@ Realizar el deploy del Frontend del proyecto en Vercel.
 
 <a href="https://sport-shop-client.vercel.app"> <img src="https://github.com/JoselFO8/JoselFO8/blob/main/Vlixes.GIF" alt="e-commerce"/> </a> <br>
 
-<p>CountriesApp como proyecto individual</p>
-<br>
-
-<p> Vlixes - es una e-commerce de ropa, calzado y accesorios deportivos, fue un trabajo en equipo, donde apoye desde el Front-End. Mi contribucion al proyecto consisitio en: 
+<p>CountriesApp, fue un trabajo individual, donde realice el Front-End y el Back-End en esta  aplicación de gestión de actividades turísticas según pais(es), las principales actividades realizadas en este proyecto fueron:
 </p> 
+
+<h4>Backend<h4/>
 <ul>
 <li>
-Crear funcionalidades y diseño para filtrar productos por categoría o por nombre.
+Crear modelos de paises y actividades turisticas.
 </li>
 
 <li>
-Crear componente para visualizar los productos en la tienda (cards).
+Crear ruta para obtener paises de una API.
 </li>
 
 <li>
-Crear componente de compra donde se muestra detalle del producto, cantidades costos y medio de pago.
+Crear ruta para obtener paises desde la db.
 </li>
 
 <li>
-Conectar Stripe como pasarela de pago con el Frontend y con el endpoint del Backend.
+Crear ruta para obtener paises por id de pais.
 </li>
 
 <li>
-Conectar la compras con la creación de pedidos.
+Crear ruta para obtener actividades turísticas.
 </li>
 
 <li>
-Diseñar un componente donde se puedan ver los pedidos creados por los diferentes clientes.
+Crear ruta para agregar actividades turísticas a paises seleccionados.
 </li>
 
 <li>
-Diseñar el componente progreso del pedido, donde se tiene el detalle de la compra y se permite asignar estados según condiciones del proceso. 
+Realizar el deploy del Backend del proyecto en Heroku.
+</li>
+
+</ul>
+<br>
+  
+<h4>Frontend<h4/>
+<ul>
+<li>
+Diseñar landingpage.
 </li>
 
 <li>
-Diseñar componente detalle del pedido, el cual muestra el pedido tal cual se realizó en el momento de la compra.
+Crear ruta para obtener paises de una API.
 </li>
 
 <li>
-Realizar el deploy del Frontend del proyecto en Vercel.
+Crear NavBar con opciones de filtrado por nombre de pais, continente o actividad turística; opción de ordenamiento por nombre o población.
 </li>
 
+<li>
+Crear componente para visualizar los paises (cards).
+</li>
+
+<li>
+Diseñar componente que muestre el detalle del pais y las actividades turísticas asignadas.
+</li>
+
+<li>
+Diseñar el formulario para agregar actividades turísticas, según tiempo, pais(es).
+</li>
+
+<li>
+Crear Footer con el About.
+</li>
+
+<li>
+Realizar el deploy en Vercel. 
+</li>
+  
 </ul>
 <br>
 
