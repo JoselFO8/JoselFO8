@@ -1,13 +1,13 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hola! 👋, Soy Jose Luis Fernández</h1>
-<h3 align="center">Soy desarrollador web full stack y Agrónomo de profesión, me caracterizo por la busqueda de crecimiento profesional y personal, aspiro conseguir resultados perseguidos mediante el trabajo en equipo o trabajo colaborativo, la calidad en los procesos y la mejora continua, al tiempo que creo un clima laboral saludable, tranquilo e inspirador.</h3>
+
+<h3 align="left">Soy desarrollador web full stack y Agrónomo de profesión, me caracterizo por la busqueda de crecimiento profesional y personal, aspiro conseguir resultados perseguidos mediante el trabajo en equipo o trabajo colaborativo, la calidad en los procesos y la mejora continua, al tiempo que creo un clima laboral saludable, tranquilo e inspirador.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit385&label=Profile%20views&color=0e75b6&style=flat" alt="mohit385" /> </p>
 
-<h3 align="left">Contactate conmigo:</h3>
+<h3 align="left">Un poco de mi:</h3>
 <p align="left">
 
 - 🔭 Actualmente me encuentro en busca de empleo
