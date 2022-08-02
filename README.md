@@ -91,12 +91,12 @@ Realizar el deploy del Frontend del proyecto en Vercel.
 <br>
 
 <a href="https://sport-shop-client.vercel.app">
-<img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> 
+<img src="https://github.com/JoselFO8/JoselFO8/blob/main/Vlixes.gif" alt="Vlixes"/>
 </a> <br>
 
 <p>CountriesApp como proyecto individual</p>
 <br>
-<a href="https://pi-dogs-hans-rafael.vercel.app/">
+<a href="https://countries-client-pi.vercel.app/">
 <img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
 </a> <br>
 
