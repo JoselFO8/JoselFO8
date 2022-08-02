@@ -94,10 +94,10 @@ Realizar el deploy del Frontend del proyecto en Vercel.
 <img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> 
 </a> <br>
 
-<p>- project individual about dogs, here is a link to visit it </p>
+<p>CountriesApp como proyecto individual</p>
 <br>
 <a href="https://pi-dogs-hans-rafael.vercel.app/">
-<img src="https://github.com/JoselFO8/JoselFO8/CountriesApp.gif" alt="CountriesApp"/> 
+<img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
 </a> <br>
 
 <h3 align="left">Informacion adicional:</h3>
