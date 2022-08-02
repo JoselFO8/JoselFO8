@@ -46,6 +46,60 @@ Heroku. <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src=
 
 </p>
 
+<h3 align="left">Proyectos recientes:</h3> <br>
+
+<p> Vlixes - es una e-commerce de ropa, calzado y accesorios deportivos, fue un trabajo en equipo, donde apoye desde el Front-End. Mi contribucion al proyecto consisitio en: 
+</p> 
+<ul>
+<li>
+Crear funcionalidades y diseño para filtrar productos por categoría o por nombre.
+</li>
+
+<li>
+Crear componente para visualizar los productos en la tienda (cards).
+</li>
+
+<li>
+Crear componente de compra donde se muestra detalle del producto, cantidades costos y medio de pago.
+</li>
+
+<li>
+Conectar Stripe como pasarela de pago con el Frontend y con el endpoint del Backend.
+</li>
+
+<li>
+Conectar la compras con la creación de pedidos.
+</li>
+
+<li>
+Diseñar un componente donde se puedan ver los pedidos creados por los diferentes clientes.
+</li>
+
+<li>
+Diseñar el componente progreso del pedido, donde se tiene el detalle de la compra y se permite asignar estados según condiciones del proceso. 
+</li>
+
+<li>
+Diseñar componente detalle del pedido, el cual muestra el pedido tal cual se realizó en el momento de la compra.
+</li>
+
+<li>
+Realizar el deploy del Frontend del proyecto en Vercel.
+</li>
+
+</ul>
+<br>
+
+<a href="https://sport-shop-client.vercel.app">
+<img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Vlixes.gif" alt="e-commerce"/> 
+</a> <br>
+
+<p>- project individual about dogs, here is a link to visit it </p>
+<br>
+<a href="https://pi-dogs-hans-rafael.vercel.app/">
+<img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> 
+</a> <br>
+
 <h3 align="left">Informacion adicional:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoselFO8&show_icons=true&locale=en&layout=compact" alt="JoselFO8" /></p>
