@@ -126,7 +126,6 @@ Realizar el deploy del Backend del proyecto en Heroku.
 </li>
 
 </ul>
-<br>
   
 <h4>Frontend<h4/>
 <ul>
@@ -163,7 +162,6 @@ Realizar el deploy en Vercel.
 </li>
   
 </ul>
-<br>
 
 <a href="https://countries-client-pi.vercel.app/">
 <img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
