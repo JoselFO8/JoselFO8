@@ -90,12 +90,53 @@ Realizar el deploy del Frontend del proyecto en Vercel.
 </ul>
 <br>
 
-<a href="https://sport-shop-client.vercel.app">
-<img src="https://github.com/JoselFO8/JoselFO8/Vlixes.gif" alt="Vlixes"/>
-</a> <br>
+<a href="https://sport-shop-client.vercel.app"> <img src="https://github.com/JoselFO8/JoselFO8/blob/main/Vlixes.gif" alt="e-commerce"/> </a> <br>
 
 <p>CountriesApp como proyecto individual</p>
 <br>
+
+<p> Vlixes - es una e-commerce de ropa, calzado y accesorios deportivos, fue un trabajo en equipo, donde apoye desde el Front-End. Mi contribucion al proyecto consisitio en: 
+</p> 
+<ul>
+<li>
+Crear funcionalidades y diseño para filtrar productos por categoría o por nombre.
+</li>
+
+<li>
+Crear componente para visualizar los productos en la tienda (cards).
+</li>
+
+<li>
+Crear componente de compra donde se muestra detalle del producto, cantidades costos y medio de pago.
+</li>
+
+<li>
+Conectar Stripe como pasarela de pago con el Frontend y con el endpoint del Backend.
+</li>
+
+<li>
+Conectar la compras con la creación de pedidos.
+</li>
+
+<li>
+Diseñar un componente donde se puedan ver los pedidos creados por los diferentes clientes.
+</li>
+
+<li>
+Diseñar el componente progreso del pedido, donde se tiene el detalle de la compra y se permite asignar estados según condiciones del proceso. 
+</li>
+
+<li>
+Diseñar componente detalle del pedido, el cual muestra el pedido tal cual se realizó en el momento de la compra.
+</li>
+
+<li>
+Realizar el deploy del Frontend del proyecto en Vercel.
+</li>
+
+</ul>
+<br>
+
 <a href="https://countries-client-pi.vercel.app/">
 <img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
 </a> <br>
