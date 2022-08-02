@@ -97,7 +97,7 @@ Realizar el deploy del Frontend del proyecto en Vercel.
 <p>- project individual about dogs, here is a link to visit it </p>
 <br>
 <a href="https://pi-dogs-hans-rafael.vercel.app/">
-<img src="https://github.com/Hans-Rafael/Hans-Rafael/blob/main/Henry%20dogs.gif" alt="Henry's Dogs"/> 
+<img src="https://github.com/JoselFO8/JoselFO8/CountriesApp.gif" alt="CountriesApp"/> 
 </a> <br>
 
 <h3 align="left">Informacion adicional:</h3>
