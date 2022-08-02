@@ -162,6 +162,7 @@ Realizar el deploy en Vercel.
 </li>
   
 </ul>
+<br>
 
 <a href="https://countries-client-pi.vercel.app/">
 <img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
