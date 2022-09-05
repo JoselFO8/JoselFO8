@@ -34,7 +34,7 @@
 
 <h4>Tags:</h4>
 <p>
-Typescript | Javascript | CSS | React | React native | Angular | Redux | Html5 | SASS | Postgresql | Node.JS | Express.JS | Jest | Postman | Git | Heroku | Vercel
+Typescript | Javascript | CSS | React | Angular | Redux | Html5 | SASS | Postgresql | Node.JS | Express.JS | Jest | Postman | Git | Heroku | Vercel
 </p>
 
 <h3 align="left">Proyectos recientes:</h3> <br>
